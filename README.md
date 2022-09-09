@@ -1,8 +1,8 @@
 # BEM VINDO 🖕
 
-# SSH-PLUS
+# ⚙ SCRIPT-SSH ⚙
 
-# @eduardossh
+# 👤 Criador do Projeto: @eduardossh
 
 *PROJETO EM ANDAMENTO...
 
