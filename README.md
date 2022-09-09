@@ -7,16 +7,11 @@
 *PROJETO EM ANDAMENTO...
 
 
-# Modo de instalação
-# 👇👽👍
-Só joga na máquina e deixar instalar
+# Sistema operacional recomendado
 
-• atualiza sistema
-
-• desativa Ipv6
-
-• instala recursos e o script
+✅ Ubuntu 18.04
+✅ Desbian 9
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/eduardossh/SSHPLUS/master/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/eduardossh/scriptssheduardo/main/ssh-plus)
 
 ```
