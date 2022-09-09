@@ -9,7 +9,7 @@
 
 # Sistema operacional recomendado
 
-✅ Ubuntu 18.04
+✅ Ubuntu 18.04<br>
 ✅ Desbian 9
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/eduardossh/scriptssheduardo/main/ssh-plus)
